@@ -1,0 +1,38 @@
+
+   
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Commons */
+  body {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .container {
+    width: 70%;
+    margin: 40px auto;
+  }
+  
+  h2 {
+    color: #3c4043;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 32px;
+    margin-top: 80px;
+  }
+  
+  p {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 20px 0;
+  }
+  
+  a {
+    color: #3367d6;
+  }
